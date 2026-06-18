@@ -11,6 +11,7 @@ function App() {
         </p>
         <h1> Hello feature 1 changes </h1>
         <h2> Hello feature 2 changes </h2>
+        <h3> Hello feature 3 changes </h3>
         <a
           className="App-link"
           href="https://reactjs.org"
